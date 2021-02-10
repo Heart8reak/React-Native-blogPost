@@ -12,7 +12,6 @@ const CreateScreen = ({ navigation }) => {
         }}/>
     )
 
-
 }
 
 const styles = StyleSheet.create({})
